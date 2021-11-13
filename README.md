@@ -7,4 +7,7 @@ I am a French developer, and I am currently learning web development on my own!
  
  ## Current Works
  * I'm currently learning on [FrontEndMentor](https://www.frontendmentor.io/profile/Alexandre-Chs)! 
- * Getting Started with NodeJS and the MERN Stack!!
+
+
+
+https://badges.pufler.dev/visits/{Alexandre-Chs}/{https://github.com/Alexandre-Chs}
