@@ -10,4 +10,5 @@ I am a French developer, and I am currently learning web development on my own!
 
 
 
-https://badges.pufler.dev/years/{Alexandre-Chs}
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
