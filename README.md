@@ -10,4 +10,4 @@ I am a French developer, and I am currently learning web development on my own!
 
 
 
-https://badges.pufler.dev/visits/{Alexandre-Chs}/{https://github.com/Alexandre-Chs}
+https://badges.pufler.dev/years/{Alexandre-Chs}
