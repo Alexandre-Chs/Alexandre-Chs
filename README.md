@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## Programming Languages
- <img src = 'https://github.com/Alexandre-Chs/Alexandre-Chs/edit/main/images/js.svg' width='30'/> 
+ <img src = 'images/js.svg' width='30'/> 
