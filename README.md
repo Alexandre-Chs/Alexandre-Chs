@@ -12,7 +12,6 @@ Passionate about new technology, creating new things and sports. I am learning w
 
 ### 📬 Get in Touch
 
-- GitHub: [github.com/Alexandre-Chs][github]
 - LinkedIn: https://www.linkedin.com/in/alexandre-chanas-8b2399197/
 - E-mail: alexandrechanas0@gmail.com
 
