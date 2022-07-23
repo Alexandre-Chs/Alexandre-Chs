@@ -4,6 +4,7 @@
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 ![React](https://img.shields.io/badge/React-Learning-blue)
+![Cyber](https://img.shields.io/badge/CyberSecurity-Learning-red)
 
 Passionate about new technology, creating new things and sports. I am learning web development on my own so that I can retrain very soon in this field! From France!🇫🇷
 
