@@ -19,6 +19,8 @@ Passionate about new technology, creating new things and sports. I am learning w
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alexandre-Chs&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alexandre-Chs&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://pomodoro-tracker.com/user/171638#)
+
 
 ## What am I listening to right now?
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1142025166&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
