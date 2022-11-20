@@ -9,7 +9,7 @@ Passionate about new technology, creating new things and sports. I am learning w
 
 - 🌱 I’m currently learning **Javascript, React and TypeScript!**
 - 👯 I’m looking to collaborate on **Open Source** projects to generate experience! **HTML/CSS/ JS (React) !**
-- 
+
 ### 📬 Get in Touch
 
 - LinkedIn: https://www.linkedin.com/in/alexandre-chanas-8b2399197/
