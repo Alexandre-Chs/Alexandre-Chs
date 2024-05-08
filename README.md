@@ -4,12 +4,11 @@
 ![React](https://img.shields.io/badge/React-Intermediate-blue)
 ![NextJS](https://img.shields.io/badge/NextJS-Intermediate-blue)
 ![Typescript](https://img.shields.io/badge/Typescript-Learning-blue)
-![Java](https://img.shields.io/badge/Java-Learning-yellow)
 
 Passionate about new technology, creating new things and sports. I am learning web development on my own so that I can retrain very soon in this field! From France!🇫🇷
 
-- 🌱 I’m currently learning **Java (Spring Boot),NextJS (with TanStack Query, Zod, DrizzleORM) and TypeScript !**
-- 👯 I’m looking to collaborate on **Open Source** projects to generate experience!
+- 🌱 I am currently improving my knowledge of javascript and typescript.
+- - 👯 I’m looking to collaborate on **Open Source** projects to generate experience!
 
 ### 📬 Get in Touch
 
