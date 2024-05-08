@@ -8,7 +8,7 @@
 Passionate about new technology, creating new things and sports. I am learning web development on my own so that I can retrain very soon in this field! From France!🇫🇷
 
 - 🌱 I am currently improving my knowledge of javascript and typescript.
-- - 👯 I’m looking to collaborate on **Open Source** projects to generate experience!
+- 👯 I’m looking to collaborate on **Open Source** projects to generate experience!
 
 ### 📬 Get in Touch
 
