@@ -16,5 +16,3 @@ Passionate about new technology, creating new things and sports. I am learning w
 - E-mail: alexandrechanas0@gmail.com
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alexandre-Chs&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-                
