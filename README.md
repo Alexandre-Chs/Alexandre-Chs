@@ -11,6 +11,8 @@ Passionate about new technology, creating new things and sports. I am learning w
 - 👯 Looking to collaborate on **Open Source** projects to generate experience!
 - 🫶 SaaS lover
 
+## Work on mysetup.app !
+
 ### 📬 Get in Touch
 
 - LinkedIn: https://www.linkedin.com/in/alexandre-chanas-8b2399197/
