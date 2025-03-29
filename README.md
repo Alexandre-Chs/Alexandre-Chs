@@ -5,7 +5,8 @@
 ![NextJS](https://img.shields.io/badge/NextJS-Intermediate-blue)
 ![Typescript](https://img.shields.io/badge/Typescript-Learning-blue)
 
-Passionate about new technology, creating new things and sports. I am learning web development on my own so that I can retrain very soon in this field! From France!🇫🇷
+SaaS builder. From France!🇫🇷
+
 
 - 🌱 I'm currently improving my knowledge of react and typescript.
 - 👯 Looking to collaborate on **Open Source** projects to generate experience!
