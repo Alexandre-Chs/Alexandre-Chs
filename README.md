@@ -18,3 +18,4 @@ SaaS builder. From France!🇫🇷
 
 - LinkedIn: https://www.linkedin.com/in/alexandre-chanas-8b2399197/
 - E-mail: alexandrechanas0@gmail.com
+- X : AlexandreChsDev
