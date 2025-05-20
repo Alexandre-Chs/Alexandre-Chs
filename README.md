@@ -5,17 +5,42 @@
 ![NextJS](https://img.shields.io/badge/NextJS-Intermediate-blue)
 ![Typescript](https://img.shields.io/badge/Typescript-Learning-blue)
 
-SaaS builder. From France!🇫🇷
+SaaS builder. From France! 🇫🇷
+
+-  🌱 I'm currently improving my knowledge of React and TypeScript.
+-  👯 Looking to collaborate on **Open Source** projects to generate experience!
+-  🫶 SaaS lover
+
+---
+
+## 🚀 Projects
+
+| Project             | Status      | Description                                                        | Link                                      |
+|---------------------|------------|--------------------------------------------------------------------|-------------------------------------------|
+| **findmeastreamer** | 🔴 DEAD   | Promote streamer on twitch                                         | —                                         |
+| **stormgateBO**     | 🔴 DEAD   | A project to find strategies for a game named 'Stormgate'          | —                                         |
+| **mySetup**         | 🟢 Active   | Share and discover developer setups.                               | [mysetup.app](https://mysetup.app)        |
+| **BoilerChs**       | 🟢 Active   | Boilerplate generator for SaaS apps with AdonisJS & React.         | —                                         |
+| **postwithoutme**   | 🟡 WIP    | AI-powered Reddit autopilot for marketing and posting campaigns.   | —                                         |
 
 
-- 🌱 I'm currently improving my knowledge of react and typescript.
-- 👯 Looking to collaborate on **Open Source** projects to generate experience!
-- 🫶 SaaS lover
+---
 
-## Work on mysetup.app !
+## 🛠️ Tech Stack
 
-### 📬 Get in Touch
+-  JavaScript / TypeScript
+-  React / Next.js / MeteorJS
+-  Node.js / AdonisJS
+-  PostgreSQL
 
-- LinkedIn: https://www.linkedin.com/in/alexandre-chanas-8b2399197/
-- E-mail: alexandrechanas0@gmail.com
-- X : AlexandreChsDev
+---
+
+## 📬 Get in Touch
+
+-  [LinkedIn](https://www.linkedin.com/in/alexandre-chanas-8b2399197/)
+-  E-mail: alexandrechanas0@gmail.com
+-  X (Twitter): [@AlexandreChsDev](https://twitter.com/AlexandreChsDev)
+
+---
+
+*Always building, always learning!*
