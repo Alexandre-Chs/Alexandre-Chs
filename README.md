@@ -19,7 +19,7 @@ SaaS builder. From France! 🇫🇷
 |---------------------|------------|--------------------------------------------------------------------|-------------------------------------------|
 | **findmeastreamer** | 🔴 DEAD   | Promote streamer on twitch                                         | —                                         |
 | **stormgateBO**     | 🔴 DEAD   | A project to find strategies for a game named 'Stormgate'          | —                                         |
-| **mySetup**         | 🟢 Active   | Share and discover developer setups.                               | [mysetup.app](https://mysetup.app)        |
+| **mySetup**         | 🟢 Active   | Share and discover setups.                               | [mysetup.app](https://mysetup.app)        |
 | **BoilerChs**       | 🟢 Active   | Boilerplate generator for SaaS apps with AdonisJS & React.         | —                                         |
 | **postwithoutme**   | 🟡 WIP    | AI-powered Reddit autopilot for marketing and posting campaigns.   | —                                         |
 
