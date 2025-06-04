@@ -13,6 +13,11 @@ SaaS builder. From France! 🇫🇷
 
 ---
 
+## 📚 What I'm Learning Now
+
+> Currently diving deep into **SQL** and **Docker** to enhance my backend and DevOps skills!
+
+
 ## 🚀 Projects
 
 | Project             | Status      | Description                                                        | Link                                      |
