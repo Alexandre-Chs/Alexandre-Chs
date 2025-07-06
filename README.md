@@ -7,7 +7,6 @@
 
 SaaS builder. From France! 🇫🇷
 
--  🌱 I'm currently improving my knowledge of React and TypeScript.
 -  👯 Looking to collaborate on **Open Source** projects to generate experience!
 -  🫶 SaaS lover
 
