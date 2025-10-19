@@ -1,43 +1,19 @@
 # Hello, I'm Alexandre Chanas 👋
 
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-![React](https://img.shields.io/badge/React-Intermediate-blue)
-![NextJS](https://img.shields.io/badge/NextJS-Intermediate-blue)
-![Typescript](https://img.shields.io/badge/Typescript-Learning-blue)
+Self-taught full-stack JS dev — indie hacker who loves creating SaaS products.
 
-SaaS builder. From France! 🇫🇷
+I work professionally with **Meteor.js**, and love exploring and creating products using **React**, **TypeScript**.
 
--  👯 Looking to collaborate on **Open Source** projects to generate experience!
--  🫶 SaaS lover
-
----
-
-## 📚 What I'm Learning Now
-
-> Currently diving deep into **SQL** and **Docker** to enhance my backend and DevOps skills!
-
+From France! 🇫🇷
 
 ## 🚀 Projects
 
 | Project             | Status      | Description                                                        | Link                                      |
 |---------------------|------------|--------------------------------------------------------------------|-------------------------------------------|
-| **findmeastreamer** | 🔴 DEAD   | Promote streamer on twitch                                         | —                                         |
-| **stormgateBO**     | 🔴 DEAD   | A project to find strategies for a game named 'Stormgate'          | —                                         |
-| **mySetup**         | 🟢 Active   | Share and discover setups.                               | [mysetup.app](https://mysetup.app)        |
-| **BoilerChs**       | 🟢 Active   | Boilerplate generator for SaaS apps with AdonisJS & React.         | Open source                                         |
-| **postwithoutme**   | 🟡 WIP    | AI-powered Reddit autopilot for marketing and posting campaigns.   | —                                         |
+| **mysetup**         | 🟢 Active   | Share and discover setups.                               | [mysetup.app](https://mysetup.app)        |
+| **findmeastreamer** | 🔴 Archived   | Promote streamer on twitch                                         | —                                         |
+| **stormgateBO**     | 🔴 Archived   | A project to find strategies for a game named 'Stormgate'          | —                                         |
 
-
----
-
-## 🛠️ Tech Stack
-
--  JavaScript / TypeScript
--  React / Next.js / MeteorJS
--  Node.js / AdonisJS
--  PostgreSQL
-
----
 
 ## 📬 Get in Touch
 
