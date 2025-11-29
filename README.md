@@ -13,7 +13,7 @@ From France! 🇫🇷
 | **mysetup**         | 🟢 Active    | Share and discover setups.                                        | [mysetup.app](https://mysetup.app)        |
 | **findmeastreamer** | 🔴 End  | Promote streamer on Twitch.                                       | —                                         |
 | **stormgateBO**     | 🔴 End  | A project to find strategies for a game named 'Stormgate'.        | —                                         |
-| **selfhosted-blog** | 🟡 Building  | AI-powered self-hosted blog with automatic article and image generation. | [Example blog](https://blog.mysetup.app) |
+| **selfhosted-blog** | 🟡 Work  | AI-powered self-hosted blog with automatic article and image generation. | [Example blog](https://blog.mysetup.app) |
 
 ## 📬 Get in Touch
 
